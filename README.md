@@ -12,6 +12,11 @@
 #### - nederlands .pdf > mijn verhaal als nieuwkomer op het mediacollege
 #### - textbased onderzoek.pdf > onderzoek naar text based applicaties
 #### - verhaal.pdf > welk verhaal ga ik vertellen in de eindopdracht (de text based applicatie)
+#### - filmpje_microbiteind.mp4 > filmpje met mijn eind project microbit
+#### - flowchart.pdf > flowchart (overzicht) van het verhaal en waar de keuzes je naar brengen
+#### - microbiteindopdracht.py > code van de microbit opdracht
+#### - verhaallijn.pdf > uitgebreid verhaal geschreven die in de code voor de textbased.py is gebruikt
+#### - textbased.py > eindopdracht text based applicatie in python
 
 ## wat vind/vond ik van de opdracht(en)
 #### de opdrachten die gingen over het maken van een spel vind ik erg leuk, ik kon mijn fantasie gebruiken en verhalen bedenken.
